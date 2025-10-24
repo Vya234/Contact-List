@@ -1,8 +1,8 @@
 Project : Advanced Contact List 
 
-This is a solution for the Tria frontend development assignment. The goal was to build a simple contact list, but I took the opportunity to demonstrate strong UX/UI design skills and product sense by building a full-featured, polished web application.
+Deployed Application Link: https://contactlist-orcin.vercel.app/
 
-Deployed Application Link: [YOUR_DEPLOYMENT_LINK_HERE]
+This is a solution for the Tria frontend development assignment. The goal was to build a simple contact list, but I took the opportunity to demonstrate strong UX/UI design skills and product sense by building a full-featured, polished web application.
 
 Project Setup
 
@@ -10,13 +10,10 @@ To run this project locally, follow these steps:
 
 Clone the repository:
 
-git clone [YOUR_REPO_LINK]
+git clone https://github.com/Vya234/contact-list
 
 
 Navigate into the project directory:
-
-cd [PROJECT_FOLDER_NAME]
-
 
 Install the required dependencies:
 
